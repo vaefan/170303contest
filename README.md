@@ -5,7 +5,7 @@
 ## Build Setup
 
 ``` bash
-# install dependencies
+#这是个初始化VUE # install dependencies
 npm install
 
 # serve with hot reload at localhost:8080
